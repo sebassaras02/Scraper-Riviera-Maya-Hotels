@@ -1,6 +1,6 @@
 # Scraper-Riviera-Maya-Hotels
 
-La Gaceta is a touristic zone in Mexico. The scraping was done in the site of hotel's organization.
+Riviera Maya is a touristic zone in Mexico. The scraping was done in the site of hotel's organization.
 
 Link to La Hotel's organization of Riviera Maya: http://rivieramaya.org.mx/
 
